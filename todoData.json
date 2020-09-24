@@ -1,0 +1,14 @@
+{
+  "title": "coding",
+  "allTask": [
+    {"task": "Code Refactoring", "state": "doing", "id": 1},
+    {"task": "Code Refactoring", "state": "Todo", "id": 2},
+    {"task": "Practice Node", "state": "Todo", "id": 3},
+    {"task": "Practice Node", "state": "Todo", "id": 4},
+    {"task": "Read Electro Magnetic Waves Theory", "state": "doing", "id": 5},
+    {"task": "Read Basic Electronics", "state": "Todo", "id": 6},
+    {"task": "Read COA", "state": "Todo", "id": 7},
+    {"task": "Read %g and IOT technology", "state": "Todo", "id": 8},
+    {"task": "Read Antenna & Wave Propagation", "state": "Todo", "id": 9}
+  ]
+}
